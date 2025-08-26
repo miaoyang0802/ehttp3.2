@@ -1,0 +1,10 @@
+EXPORTS
+EHTTP_Config
+EHTTP_StartServer
+EHTTP_StopServer
+EHTTP_SetRequestHandlerEx
+EHTTP_SetErrorCallback
+EHTTP_GetStats
+EHTTP_SetHeader
+EHTTP_Send
+EHTTP_SendFast
